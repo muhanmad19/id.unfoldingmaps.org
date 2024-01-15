@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://id.unfoldingmaps.org/sitemap.xml
